@@ -39,7 +39,6 @@ def get_nvidia_driver_info():
                     'date': ' '.join(nvrm_version[6:])
                 }
             }
-        }
     return
 
 
